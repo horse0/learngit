@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 xiugai
 wow2
+8-25ri gai
